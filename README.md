@@ -2,7 +2,7 @@
 This is not a finished project, but I don't even think I will ever finish it, as I explained it in several comments on [this page](https://stackoverflow.com/questions/71546744).
 It may not even work properly, and the whole purpose of it is basically to show that this approach is stupidly complicated (at least for me) for what it achieves compared to the other alternatives.
 
-Context: [Faraaz Kurawle]() wanted a live update of a Python code that used [tkinter]().
+Context: [Faraaz Kurawle](https://stackoverflow.com/users/16187613) wanted a live update of a Python code that used [tkinter](https://docs.python.org/3/library/tkinter.html).
 
 ### Quotes from comments that I hope explain my opinion better:
 
