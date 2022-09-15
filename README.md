@@ -13,4 +13,4 @@ Context: [Faraaz Kurawle](https://stackoverflow.com/users/16187613) wanted a liv
 > With the code above on GitHub, I still have the problem that when you modify a line with a certain variable in it, deleting it is not enough, you also need to know every impact this line had, and this can range from `global foo` \[*changing what a certain variable name in a function refers to*\] to redefining a variable to something else: the program needs to read the whole code again, and this has basically the same effect as refreshing your page.
 > Maybe my solution can help once it's done properly, but only to a certain extend. If you want to go further than that, you will need to either make a new `tkinter`-like library, or rewrite the entire Python language
 
-I am sorry for not putting more effort into this, but as I repeated above, it is certainly not worth it. Maybe you can prove me wrong and make this code work?
+I am sorry for not putting more effort into this, but as I repeated above, it is certainly not worth it. But surely someone can prove me wrong and make this code work?
